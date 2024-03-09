@@ -1,4 +1,4 @@
 
-![Group By](assets/groupby.png)
+![Group by](assets/groupby.png)
 
 

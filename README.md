@@ -11,4 +11,6 @@ This allows users to compare and learn one language using their knowledge of the
 1. [Filtering](1.filtering)
 2. [String filtering](2.string_filtering)
 3. [Distinct & Count](3.distinct_and_count)
+4. [Group by](4.groupby)
+5. [Order by](5.orderby)
 
