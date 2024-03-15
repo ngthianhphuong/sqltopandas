@@ -13,4 +13,5 @@ This allows users to compare and learn one language using their knowledge of the
 3. [Distinct & Count](3.distinct_and_count)
 4. [Group by](4.groupby)
 5. [Order by](5.orderby)
+6. [Union All & Union](6.union)
 
