@@ -14,5 +14,7 @@ This allows users to compare and learn one language using their knowledge of the
 4. [Group by](4.groupby)
 5. [Order by](5.orderby)
 6. [Union All & Union](6.union)
-6. [Join](7.join)
+7. [Join](7.join)
+8. [Window functions](8.window_functions)
+
 
