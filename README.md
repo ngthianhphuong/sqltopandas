@@ -16,5 +16,6 @@ This allows users to compare and learn one language using their knowledge of the
 6. [Union All & Union](6.union)
 7. [Join](7.join)
 8. [Window functions](8.window_functions)
+8. [Window functions_with_partition](9.window_functions_with_partition)
 
 
